@@ -149,10 +149,12 @@ GPT Family (Generative Pretrained Transformer)
 GPT-2 (2019): Demonstrated coherent text generation.
 GPT-3 (2020): Featured 175 billion parameters and advanced fluency.
 GPT-4 (2023): Multimodal capabilities including text and images.
+
 <img width="431" height="396" alt="Screenshot 2026-02-10 082743" src="https://github.com/user-attachments/assets/f46668d7-88af-4471-8b76-11deb2c18cb6" />
 
 Pretrained using bidirectional context for deeper understanding.
 Widely used in search engines and natural language classification tasks.
+
 <img width="327" height="400" alt="Screenshot 2026-02-10 082751" src="https://github.com/user-attachments/assets/f790cb59-c230-4540-93a1-b773cc1b838d" />
 
 ## Importance of Scaling
