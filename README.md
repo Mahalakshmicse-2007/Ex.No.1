@@ -58,9 +58,6 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output
-Here are the **paragraph explanations with clear subheadings** for each topic.
-
----
  Introduction
 The field of Artificial Intelligence (AI) has shifted from deterministic rule-based systems toward adaptive systems capable of learning and generating complex outputs. The most significant innovation in this journey has been the emergence of Generative AI, which enables the creation of novel text, images, audio, and video with human-like quality. Central to this revolution are Large Language Models (LLMs), such as OpenAI’s GPT series and Google’s BERT, which demonstrate an unprecedented ability to understand, reason, and generate language. This report explores the theoretical foundations, practical implementations, and ethical considerations of these transformative technologies.
 
